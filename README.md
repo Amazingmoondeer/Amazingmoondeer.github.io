@@ -1,4 +1,47 @@
 # Amazingmoondeer.github.io
+<p>
+<h1><b>Name :</b></h1>
+  <br>
+<h2> Thaddeaus</h2>
+</p>
+<p>
+  <h1><b>Photo</b></h1>
+  <h2></h2>
+  <br>
+</p>
+<p>
+  <h1><b>Location</b></h1>
+  <h2> Kakamega,Kenya</h2>
+  <br>
+</p>
+<p>
+  <h1><b>Professional Title</b></h1>
+  <h2> Microsoft packages expert</h2>
+  <br>
+  </p>
+  <hr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <p> first sentence </p>
 <table border="2">
 <th>students table </th>
