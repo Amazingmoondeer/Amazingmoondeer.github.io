@@ -50,7 +50,7 @@
 </p>
 <h1><b>Education</b></h1>
 <h1><b>Degree-Institution Name</h1>
-  <h2></h2>
+  <h2>Kakamega School</h2>
   <h3></h3>
 </p>
 <hr>
