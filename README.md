@@ -38,8 +38,15 @@
     <li>Access</li>
   </ul>
 </p>
-
-
+<hr>
+<p>
+  <h1><b>Work Experience</b></h1>
+  <h1><b>Job Title-Company Name</b></h1>
+  <h3>Feb,2025 - present</h3>
+  <ul>
+    <li>Developed student database using Access</li>
+  </ul>
+</p>
 
 
 
