@@ -2,7 +2,7 @@
 <p>
 <h1><b>Name :</b></h1>
   <br>
-<h2> Thaddeaus</h2>
+<h2> Thaddeaus Wambiji</h2>
 </p>
 <p>
   <h1><b>Photo</b></h1>
@@ -49,7 +49,7 @@
 </p>
 </p>
 <h1><b>Education</b></h1>
-<h1><b>Degree-Institution Name</h1>
+<h1><b>Degree-Institution Name</b></h1>
   <h2>Kakamega School</h2>
   <h3></h3>
 </p>
