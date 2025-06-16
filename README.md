@@ -47,9 +47,22 @@
     <li>Developed student database using Access</li>
   </ul>
 </p>
-
-
-
+</p>
+<h1><b>Education</b></h1>
+<h1><b>Degree-Institution Name</h1>
+  <h2></h2>
+  <h3></h3>
+</p>
+<hr>
+<p>
+  <h1><b>Contact Information</b></h1>
+  <ul>
+    <li>Email:deuswambiji07@gmail.com</li>
+    <li>Linked in:linkedin.com/in/Deus</li>
+    <li>Website:</li>
+    <li>Phone:+254 703 731 737</li>
+  </ul>
+</p>
 
 
 
