@@ -59,7 +59,7 @@
   <ul>
     <li>Email:deuswambiji07@gmail.com</li>
     <li>Linked in:linkedin.com/in/Deus</li>
-    <li>Website:</li>
+    <li>Website:Amazingmoondeer.github.io</li>
     <li>Phone:+254 703 731 737</li>
   </ul>
 </p>
