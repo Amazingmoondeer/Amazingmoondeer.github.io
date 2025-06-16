@@ -20,9 +20,24 @@
   <br>
   </p>
   <hr>
-
-
-
+<p>
+  <h1><b>Professional Summary </b></h1>
+  <h2> Expert skills in Word, Powerpoint, Publisher, with intermediate skills in Excell and Access</h2>
+  <br>
+  <h2> Example : </h2>
+  <h2> Experienced Microsoft package officer with 6+ months of expertise. Passionate in tackling new innovative challenges</h2>
+</p>
+<hr>
+<p>
+  <h1><b>Skills & Expertise</b></h1>
+  <ul>
+    <li>Word</li>
+    <li>Publisher</li>
+    <li>Powerpoint</li>
+    <li>Excell</li>
+    <li>Access</li>
+  </ul>
+</p>
 
 
 
