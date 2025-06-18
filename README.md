@@ -63,7 +63,8 @@
     <li>Phone:+254 703 731 737</li>
   </ul>
 </p>
-
+<hr>
+<h1><b>PROJECTS</b></h1>
 
 
 
