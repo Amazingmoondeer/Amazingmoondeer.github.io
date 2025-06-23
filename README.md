@@ -66,6 +66,7 @@
 <hr>
 <h1><b>PROJECTS</b></h1>
 <p>first project <a href=" https://amazingmoondeer.github.io/Business_profile/"> Creating a business profile</a></p>
+<p>second project<a href=" https://amazingmoondeer.github.io/twenty/"> game</a></p>
 
 
 
