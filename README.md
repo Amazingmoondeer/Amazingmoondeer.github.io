@@ -47,7 +47,7 @@
     <li>Developed student database using Access</li>
   </ul>
 </p>
-</p>
+<p>
 <h1><b>Education</b></h1>
 <h1><b>Degree-Institution Name</b></h1>
   <h2>Kakamega School</h2>
