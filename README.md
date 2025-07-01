@@ -72,7 +72,7 @@
 <p>fourth project<a href=" https://amazingmoondeer.github.io/photo-editor/">app</a></p>
 <p>fifth project<a href="https://amazingmoondeer.github.io/Music/">app</a></p>
 <p>sixth project<a href=" https://amazingmoondeer.github.io/Game-dealer/">game</a></p>
-<p>seventh project<a href="https://amazingmoondeer.github.io/seven/"app</a></p>
+<p>seventh project<a href="https://amazingmoondeer.github.io/seven/">app</a></p>
 
 
 
